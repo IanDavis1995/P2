@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "678186423840",
+    "firebase_url": "https://ceg3900-p2-17a5a.firebaseio.com",
+    "project_id": "ceg3900-p2-17a5a",
+    "storage_bucket": "ceg3900-p2-17a5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678186423840:android:a806387762327d53",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.firebasestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678186423840-kagl8ltbn43dsu5152v16lvn680457m4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU_97O2t6wSc1YSUAVCi_Le0n3UzfLG7E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
